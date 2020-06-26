@@ -5,10 +5,5 @@ pre-made pastry
 3 tablespoons flour
 1 tbsp cinnamon
 20 Granny Smith apples
-<<<<<<< Updated upstream
-nogood
-stash 2
-=======
 nogood commit
 no good stash
->>>>>>> Stashed changes
