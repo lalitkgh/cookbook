@@ -6,3 +6,4 @@ pre-made pastry
 1 tbsp cinnamon
 20 Granny Smith apples
 nogood
+stash 2
